@@ -1,0 +1,6 @@
+.menu-block {
+    display: block;
+}
+.custom-file-input:lang(ru) ~ .custom-file-label::after {
+    content: "Выбрать";
+}
